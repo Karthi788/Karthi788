@@ -33,7 +33,7 @@ I'm an aspiring developer with hands-on experience in end-to-end enterprise tech
 
 ## 🚗 My Projects
 
-### 1. 	DocuMentor – Document Chat & Study Plan Generator
+### 1. DocuMentor – Document Chat & Study Plan Generator
 An AI-powered platform that enables users to interact with uploaded documents and generates personalized, goal-oriented study plans using advanced NLP techniques.
 
 - **Features:**
