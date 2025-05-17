@@ -24,9 +24,10 @@ I'm an aspiring developer with hands-on experience in end-to-end enterprise tech
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karthi788&show_icons=true&locale=en" alt="karthi788" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi788&" alt="karthi788" /></p>
-
+<div style="display: flex; justify-content: left; align-items: left; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthi788&show_icons=true&locale=en" alt="karthi788" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthi788&" alt="karthi788" />
+</div>
 
 ---
 
