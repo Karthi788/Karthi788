@@ -24,9 +24,18 @@ I'm an aspiring developer with hands-on experience in end-to-end enterprise tech
 <p align="left">
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=karthi788&show_icons=true&locale=en" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthi788&" alt="GitHub Streak" />
+<p align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=karthi788&show_icons=true&locale=en" alt="karthi788" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthi788&" alt="karthi788" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
