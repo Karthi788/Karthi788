@@ -24,8 +24,8 @@ I'm an aspiring developer with hands-on experience in end-to-end enterprise tech
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthi788&show_icons=true&locale=en" alt="karthi788" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi788&" alt="karthi788" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karthi788&show_icons=true&locale=en" alt="karthi788" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi788&" alt="karthi788" /></p>
 
 
 ---
